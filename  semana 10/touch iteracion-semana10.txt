@@ -1,0 +1,6 @@
+¿Qué 2 tareas del backlog harías primero?
+Registrar un problema con el servicio público y recibir una notificación cuando haya un nuevo reporte.
+¿Por qué son las más importantes?
+Porque primero se necesita que las personas puedan hacer los reportesde lo que necesite y que alguien sea avisado para revisarlos.
+¿Qué significa para ti que una tarea esté "terminada"?
+Que ya funciona correctamente, fue probada y quedó guardada en Git.

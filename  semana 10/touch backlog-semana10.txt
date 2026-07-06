@@ -1,0 +1,3 @@
+Prioridad 1 : Como habitante de la comunidad quiero reportar un problema con el servicio público para que las autoridades puedan conocerlo y darle solución.
+Prioridad 2: Como voluntario quiero ver cuáles reportes siguen pendientes para ayudar a hacerles seguimiento.
+Prioridad 3: Como usuario quiero consultar el estado de mis reportes para saber si ya fueron atendidos.
